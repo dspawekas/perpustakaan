@@ -1,4 +1,9 @@
 .text {
     color: red;
     font-weight: 500;
+    background-color: aquamarine;
+}
+
+body {
+    background-color: burlywood;
 }
